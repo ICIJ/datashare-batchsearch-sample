@@ -1,0 +1,6 @@
+// https://www.swift.com/resource/iban-registry-pdf
+// https://en.wikipedia.org/wiki/International_Bank_Account_Number
+FR1420041010050500013M02606
+FR14 2004 1010 0505 0001 3M02 606
+FR76 3000 6000 0112 3456 7890 189
+FR1420041010050500013M02606
